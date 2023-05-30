@@ -34,7 +34,7 @@
     "timeMonth": 712,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2023-05-30": 281
+      "2023-05-30": 340
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.eazyrooms.com/api/v1/storeService/getAllProducts/645626a6fb42bbfa70248aca?page=1&limit=1&active=true",
     "icon": "https://icons.duckduckgo.com/ip3/api.eazyrooms.com.ico",
     "slug": "eazyrooms-products",
-    "status": "down",
-    "uptime": "75.41%",
-    "uptimeDay": "75.41%",
-    "uptimeWeek": "75.41%",
-    "uptimeMonth": "75.41%",
-    "uptimeYear": "75.41%",
-    "time": 495,
-    "timeDay": 495,
-    "timeWeek": 495,
-    "timeMonth": 495,
-    "timeYear": 495,
+    "status": "up",
+    "uptime": "62.11%",
+    "uptimeDay": "62.11%",
+    "uptimeWeek": "62.11%",
+    "uptimeMonth": "62.11%",
+    "uptimeYear": "62.11%",
+    "time": 444,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 444,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2023-05-30": 67
+      "2023-05-30": 126
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-30": 281
+      "2023-05-30": 340
     }
   }
 ]
