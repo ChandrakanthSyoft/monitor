@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 137,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 159,
+    "timeDay": 106,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 728,
+    "time": 735,
     "timeDay": 731,
-    "timeWeek": 728,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "timeWeek": 735,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2023-05-31": 801,
+      "2023-06-01": 76,
+      "2023-05-31": 1440,
       "2023-05-30": 1016
     }
   },
@@ -44,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.eazyrooms.com.ico",
     "slug": "eazyrooms-products",
     "status": "down",
-    "uptime": "11.41%",
+    "uptime": "8.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "11.41%",
-    "uptimeMonth": "11.41%",
-    "uptimeYear": "11.41%",
-    "time": 416,
-    "timeDay": 398,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "uptimeWeek": "8.18%",
+    "uptimeMonth": "8.18%",
+    "uptimeYear": "8.18%",
+    "time": 403,
+    "timeDay": 397,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2023-05-31": 801,
+      "2023-06-01": 76,
+      "2023-05-31": 1440,
       "2023-05-30": 802
     }
   },
@@ -76,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-31": 801,
+      "2023-06-01": 76,
+      "2023-05-31": 1440,
       "2023-05-30": 1015
     }
   }
