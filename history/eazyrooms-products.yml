@@ -1,7 +1,7 @@
 url: https://api.eazyrooms.com/api/v1/storeService/getAllProducts/645626a6fb42bbfa70248aca?page=1&limit=1&active=true
-status: down
-code: 500
-responseTime: 240
-lastUpdated: 2023-05-31T23:16:00.682Z
+status: up
+code: 200
+responseTime: 242
+lastUpdated: 2023-06-01T05:11:58.376Z
 startTime: Tue May 30 2023 07:11:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
