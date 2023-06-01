@@ -22,19 +22,19 @@
     "url": "https://api.eazyrooms.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.eazyrooms.com.ico",
     "slug": "eazyrooms-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 735,
-    "timeDay": 731,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "time": 730,
+    "timeDay": 725,
+    "timeWeek": 730,
+    "timeMonth": 730,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2023-06-01": 76,
+      "2023-06-01": 300,
       "2023-05-31": 1440,
       "2023-05-30": 1016
     }
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.eazyrooms.com.ico",
     "slug": "eazyrooms-products",
     "status": "down",
-    "uptime": "8.18%",
+    "uptime": "7.52%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.18%",
-    "uptimeMonth": "8.18%",
-    "uptimeYear": "8.18%",
+    "uptimeWeek": "7.52%",
+    "uptimeMonth": "7.52%",
+    "uptimeYear": "7.52%",
     "time": 403,
     "timeDay": 397,
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2023-06-01": 76,
+      "2023-06-01": 300,
       "2023-05-31": 1440,
       "2023-05-30": 802
     }
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-01": 76,
+      "2023-06-01": 300,
       "2023-05-31": 1440,
       "2023-05-30": 1015
     }
